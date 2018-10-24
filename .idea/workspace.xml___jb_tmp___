@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f496a322-063c-4a3b-b290-5d547717e7ec" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore___jb_tmp___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Net Ninja.html" beforeDir="false" afterPath="$PROJECT_DIR$/Net Ninja.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rozdzial_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net Ninja.html" beforeDir="false" afterPath="$PROJECT_DIR$/rozdzial_1.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Net Ninja.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Net Ninja.html">
+      <file leaf-file-name="rozdzial_1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rozdzial_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <state relative-caret-position="272">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rozdzial_2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rozdzial_2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -49,6 +59,7 @@
         <option value="$PROJECT_DIR$/zadanie-1" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Net Ninja.html" />
+        <option value="$PROJECT_DIR$/rozdzial_2.html" />
       </list>
     </option>
   </component>
@@ -57,12 +68,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -106,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540374419964</updated>
-      <workItem from="1540374421914" duration="4318000" />
+      <workItem from="1540374421914" duration="5993000" />
     </task>
     <task id="LOCAL-00001" summary="utworzenie pliku html">
       <created>1540374971101</created>
@@ -115,11 +120,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540374971101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Rozdział 1 - struktura strony">
+      <created>1540409668559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540409668559</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4318000" />
+    <option name="totallyTimeSpent" value="5993000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -134,7 +146,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -142,7 +154,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" weight="0.32909605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -187,7 +199,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="utworzenie pliku html" />
-    <option name="LAST_COMMIT_MESSAGE" value="utworzenie pliku html" />
+    <MESSAGE value="Rozdział 1 - struktura strony" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rozdział 1 - struktura strony" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/zadanie-1">
@@ -204,10 +217,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Net Ninja.html">
+    <entry file="file://$PROJECT_DIR$/rozdzial_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        <state relative-caret-position="272">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rozdzial_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
         </state>
       </provider>
     </entry>
